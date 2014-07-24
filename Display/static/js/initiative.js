@@ -39,7 +39,6 @@ $('#save').click(function() {
         cache: false,
         dataType: "json",
         success: function(id) {
-            alert(id);
             for(i=0; i<count; i++){
                 $("#initiative tr:last").after("<tr id="+parseInt(id+i)+" style='background-color:green'>"+
                 "<td>"+name+"</td>"+
