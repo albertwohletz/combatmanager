@@ -25,3 +25,17 @@ $('#save').click(function() {
         type: "GET"
     });
 });
+
+
+jQuery(".delete").click(function(e){
+    e.preventDefault();
+    var row = $(this).parent().parent();
+    id = row.attr('id')
+    $.ajax({
+        url: '/api/remove_char?id=' + id,
+        cache: false,
+        dataType: "HTTP",
+        type: "GET"
+    });
+    row.remove();
+});

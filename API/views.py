@@ -12,3 +12,9 @@ def add_char(request):
     new_char = models.Chars(name=name, image=image, hp=hp, ac=ac)
     new_char.save()
     return HttpResponse('Done')
+
+def remove_char(request):
+    id = request.GET['id']
+    models.Chars.objects.filter(id=id).delete()
+    return HttpResponse('Done')
+

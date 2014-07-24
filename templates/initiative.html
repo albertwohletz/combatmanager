@@ -19,7 +19,7 @@
             <tr><th>Name</th><th>Picture</th><th>HP</th><th>AC</th><th>Modifiers</th></tr>
             <tbody id="sortable">
                 {% for char in chars %}
-                    <tr>
+                    <tr id={{ char.id }}>
                         <td>{{ char.name }}</td>
                         <td><img style="max-height: 40px;" src='{{ char.image }}' alt=""></td>
                         <td style='width:50px'>
@@ -30,7 +30,7 @@
                         </td>
                         <td>{{ char.ac }}</td>
                         <td>
-                            <button type="button" class="btn btn-default" id="delete-row" title="Delete This Person">
+                            <button type="button" class="btn btn-default delete" title="Delete This Person">
                                 <span class="glyphicon glyphicon-remove-circle"></span>
                             </button>
                         </td>
