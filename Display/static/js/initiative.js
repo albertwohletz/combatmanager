@@ -17,9 +17,10 @@ $('#save').click(function() {
     image = $("#player-image").val()
     hp = $("#player-hp").val()
     ac = $("#player-ac").val()
+    count = $("#player-number").val()
 
     $.ajax({
-        url: '/api/add_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac,
+        url: '/api/add_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac + "&count="+count,
         cache: false,
         dataType: "HTTP",
         type: "GET"

@@ -8,9 +8,11 @@ def add_char(request):
     image = request.GET['image']
     hp = request.GET['hp']
     ac = request.GET['ac']
+    count = int(request.GET['count'])
 
-    new_char = models.Chars(name=name, image=image, hp=hp, ac=ac)
-    new_char.save()
+    for i in range(0,count):
+        new_char = models.Chars(name=name, image=image, hp=hp, ac=ac)
+        new_char.save()
     return HttpResponse('Done')
 
 def remove_char(request):
