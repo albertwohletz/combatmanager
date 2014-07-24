@@ -1,0 +1,8 @@
+.initiative_table td, #initiative_table th
+{
+    font-size: 1.2em;
+    border: 1px solid #000000;
+    padding: 3px 7px 2px 7px;
+    width:20%;
+    background-color: #eeeeee;
+}
