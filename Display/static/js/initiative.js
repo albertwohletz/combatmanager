@@ -34,17 +34,38 @@ $('#save').click(function() {
     ac = $("#player-ac").val()
     count = $("#player-number").val()
 
-    $.ajax({
+    var request =  $.ajax({
         url: '/api/add_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac + "&count="+count,
         cache: false,
-        dataType: "HTTP",
-        type: "GET"
+        dataType: "json",
+        success: function(id) {
+            alert(id);
+            for(i=0; i<count; i++){
+                $("#initiative tr:last").after("<tr id="+parseInt(id+i)+" style='background-color:green'>"+
+                "<td>"+name+"</td>"+
+                "<td><img style='max-height: 40px; src='"+image+"'></td>"+
+                "<td style='width:150px'>"+
+                "    <div class='input-group'>"+
+                "        <input type='text' class='form-control hp' value ="+hp+" data-hp= "+hp+ ">"+
+                "        <span class='input-group-addon'>/"+hp+"</span>"+
+                "    </div>"+
+                "</td>"+
+                "<td>"+ac+"</td>"+
+                "<td><input type='text' class='form-control'></td>"+
+                "<td>"+
+                "    <button type='button' class='btn btn-default delete' title='Delete This Person'>"+
+                "        <span class='glyphicon glyphicon-remove-circle'></span>"+
+                "    </button>"+ "</td></tr>");
+            }
+        }
     });
+
+
+    $("#overlay").hide();
 });
 
 
-jQuery(".delete").click(function(e){
-    e.preventDefault();
+$(document).on("click",".delete", function(e){
     var row = $(this).parent().parent();
     id = row.attr('id')
     $.ajax({
