@@ -2,280 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35535f8-b2d2-471e-b0a2-d634a8defdd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/combatmanager.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/accordion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/autocomplete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/clip-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/datepicker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/draggable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/drop-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/droppable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/fade-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/fold-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/initiative.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/js/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/jquery-ui-1.10.4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/js/jquery-ui-1.10.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/css/ui-lightness/jquery-ui-1.10.4.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/js/jquery-ui-1.10.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery-ui-i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery-ui-i18n.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.accordion.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.autocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.autocomplete.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.button.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-af.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-az.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-be.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-cy-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-da.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-de.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-el.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-en-AU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-en-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-en-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-es.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-et.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-he.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-id.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-is.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-it.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-km.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ky.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-nl-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nn.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-no.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-rm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-th.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-tj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.dialog.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.draggable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.droppable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.droppable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-blind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-blind.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-bounce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-bounce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-clip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-clip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-drop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-drop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-explode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-explode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-fade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-fade.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-fold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-fold.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-highlight.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-pulsate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-pulsate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-scale.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-shake.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-shake.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-slide.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect-transfer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect-transfer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.effect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.effect.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.menu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.mouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.mouse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.position.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.position.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.progressbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.progressbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.selectable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.selectable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.sortable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.spinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.spinner.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.tabs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.tooltip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/jquery.ui.widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/ui/minified/jquery.ui.widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/css/main_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/mouse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/position.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/progressbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/puff-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/resizable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/size-effect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/sortable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/spinner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Display/static/jquery-ui-1.10.4/development-bundle/docs/tooltip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/initiative.html" afterPath="$PROJECT_DIR$/templates/initiative.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combatmanager/settings.py" afterPath="$PROJECT_DIR$/combatmanager/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combatmanager/urls.py" afterPath="$PROJECT_DIR$/combatmanager/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Display/views.py" afterPath="$PROJECT_DIR$/Display/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="combatmanager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -298,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/combatmanager/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="1" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="1515">
+            <state line="52" column="8" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.4176334" vertical-offset="600" max-vertical-offset="1530">
               <folding />
             </state>
           </provider>
@@ -319,17 +52,30 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Display/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="6" column="29" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initiative.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/initiative.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="37" selection-start="525" selection-end="525" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initiative.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/initiative.html">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="33" selection-start="972" selection-end="972" vertical-scroll-proportion="0.63144964" vertical-offset="88" max-vertical-offset="570">
-              <folding />
+            <state line="6" column="18" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <folding>
+                <element signature="e#30#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -369,11 +115,12 @@
       <list>
         <option value="$PROJECT_DIR$/Display/static/css/main_style.css" />
         <option value="$PROJECT_DIR$/templates/main.html" />
-        <option value="$PROJECT_DIR$/Display/views.py" />
         <option value="$PROJECT_DIR$/combatmanager/urls.py" />
-        <option value="$PROJECT_DIR$/combatmanager/settings.py" />
         <option value="$PROJECT_DIR$/Display/static/js/initiative.js" />
+        <option value="$PROJECT_DIR$/API/models.py" />
+        <option value="$PROJECT_DIR$/Display/views.py" />
         <option value="$PROJECT_DIR$/templates/initiative.html" />
+        <option value="$PROJECT_DIR$/combatmanager/settings.py" />
       </list>
     </option>
   </component>
@@ -576,6 +323,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combatmanager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combatmanager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -839,7 +600,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -850,7 +611,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -895,7 +656,9 @@
     <entry file="file://$PROJECT_DIR$/Display/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -927,23 +690,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Display/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combatmanager/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="23" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combatmanager/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="1" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="1515">
           <folding />
         </state>
       </provider>
@@ -957,9 +706,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Display/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/initiative.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="972" selection-end="972" vertical-scroll-proportion="0.63144964" vertical-offset="88" max-vertical-offset="570">
+        <state line="12" column="37" selection-start="525" selection-end="525" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding>
+            <element signature="e#30#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combatmanager/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="8" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.4176334" vertical-offset="600" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>

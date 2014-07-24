@@ -21,10 +21,9 @@
         <table class="table">
             <tr><th>Name</th><th>Picture</th><th>HP</th><th>Max</th><th>Modifiers</th></tr>
             <tbody id="sortable">
-                <tr><td>blah</td></tr>
-                <tr><td>blah2</td></tr>
-                <tr><td>blah3</td></tr>
-                <tr><td>blah4</td></tr>
+                {% for char in chars %}
+                    <tr><td>char.name</td><td>char.image</td><td>char.hp</td><td>char.hp</td><td>char.ac</td></tr>
+                {% endfor %}
             </tbody>
         </table>
     </div>
