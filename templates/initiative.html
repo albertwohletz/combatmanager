@@ -19,12 +19,12 @@
             <tr><th>Name</th><th>Picture</th><th>HP</th><th>AC</th><th>Modifiers</th></tr>
             <tbody id="sortable">
                 {% for char in chars %}
-                    <tr id={{ char.id }}>
+                    <tr id={{ char.id }} style="background-color:green">
                         <td>{{ char.name }}</td>
                         <td><img style="max-height: 40px;" src='{{ char.image }}' alt=""></td>
-                        <td style='width:50px'>
+                        <td style='width:150px'>
                             <div class="input-group">
-                                <input type="text" class="form-control" value = {{ char.hp }}>
+                                <input type="text" class="form-control hp" value = {{ char.hp }} data-hp= {{ char.hp }}>
                                 <span class="input-group-addon">/{{ char.hp }}</span>
                             </div>
                         </td>

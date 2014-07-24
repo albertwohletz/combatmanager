@@ -12,6 +12,21 @@ $('#add-new').click(function() {
     $("#overlay").show();
 });
 
+$('.hp').change(function(){
+    current = $(this).val();
+    max = $(this).attr("data-hp");
+    if (current/max < 0.25){
+        $(this).parent().parent().parent().css("background-color","red");
+    } else if (current/max < 0.50){
+        $(this).parent().parent().parent().css("background-color","orange");
+    } else if (current/max < 0.75){
+        $(this).parent().parent().parent().css("background-color","yellow");
+    } else {
+        $(this).parent().parent().parent().css("background-color","green");
+    }
+
+});
+
 $('#save').click(function() {
     name = $("#player-name").val()
     image = $("#player-image").val()
