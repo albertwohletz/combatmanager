@@ -7,3 +7,4 @@ class Chars(models.Model):
     image = models.CharField(max_length=200)
     hp = models.IntegerField()
     ac = models.IntegerField()
+    type = models.CharField(max_length=200)

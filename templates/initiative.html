@@ -14,18 +14,34 @@
     <!-- Default panel contents -->
     <div class="panel-heading">DnD Initiave</div>
     <div class="panel-body">
-        <button type="button" class="btn btn-default">
-            <span class="glyphicon glyphicon-cog"></span>
-        </button>
     </div>
         <table class="table">
             <tr><th>Name</th><th>Picture</th><th>HP</th><th>Max</th><th>Modifiers</th></tr>
             <tbody id="sortable">
                 {% for char in chars %}
-                    <tr><td>char.name</td><td>char.image</td><td>char.hp</td><td>char.hp</td><td>char.ac</td></tr>
+                    <tr><td>{{ char.name }}</td><td>{{ char.image }}</td><td>{{ char.hp }}</td><td>{{ char.hp }}</td><td>{{ char.ac }}</td></tr>
                 {% endfor %}
             </tbody>
         </table>
+    </div>
+
+    <div>
+        <button type="button" class="btn btn-default" id="add-new">
+            <span class="glyphicon glyphicon-plus"></span>
+        </button>
+    </div>
+
+    <div id="overlay" class="overlay">
+        <img class="close-button" src= http://admin.loadiq.com:8000/static/img/xicon.gif>
+        <div class="input-group">
+            <input type="text" id='player-name' class="form-control" placeholder="Name">
+            <input type="text" id='player-image' class="form-control" placeholder="Image">
+            <input type="text" id='player-hp' class="form-control" placeholder="HP">
+            <input type="text" id='player-ac' class="form-control" placeholder="AC">
+            <span class="input-group-btn glyphicon" title="Save">
+                <button class="btn btn-default" type="button" id="save"><span class="glyphicon glyphicon-floppy-disk"></span></button>
+            </span>
+        </div>
     </div>
 </body>
     <script src={% static 'js/initiative.js' %}></script>
