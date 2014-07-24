@@ -16,3 +16,6 @@ What I actually want from it
 
   Maybe?
     Will/Fort/Ref
+
+Todo:
+ AC/TouchAC/FlatFooted
