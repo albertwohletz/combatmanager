@@ -12,10 +12,14 @@ $('#add-new').click(function() {
     $("#overlay").show();
 });
 
-$('.hp').change(function(){
+$(document).on("change",".hp", function(e){
     current = $(this).val();
     max = $(this).attr("data-hp");
-    if (current/max < 0.25){
+    if (current/max < 0.0){
+        $(this).parent().parent().parent().css("background-color","black");
+    }
+
+    else if (current/max < 0.25){
         $(this).parent().parent().parent().css("background-color","red");
     } else if (current/max < 0.50){
         $(this).parent().parent().parent().css("background-color","orange");

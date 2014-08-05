@@ -18,4 +18,4 @@ What I actually want from it
     Will/Fort/Ref
 
 Todo:
- AC/TouchAC/FlatFooted
+  If you get 4 monsters name it Gob1, Gob2, Gob3, Gob4
