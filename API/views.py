@@ -2,6 +2,7 @@ __author__ = 'albertlwohletz'
 from django.shortcuts import render
 from API import models
 from django.http import HttpResponse
+import json
 
 def add_char(request):
     name = request.GET['name']
@@ -21,3 +22,9 @@ def remove_char(request):
     models.Chars.objects.filter(id=id).delete()
     return HttpResponse('Done')
 
+def get_char(request):
+    id = int(request.GET['id'])
+    char = list(models.Chars.objects.filter(id=id))[0]
+
+    result_data = {"hp": char.hp, "ac": char.ac, "img": char.image, "name": char.name}
+    return HttpResponse(json.dumps(result_data), content_type="text/json")

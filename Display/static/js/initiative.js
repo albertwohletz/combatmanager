@@ -68,8 +68,7 @@ $('#save').click(function() {
     $("#overlay").hide();
 });
 
-$('#edit').click(function() {
-    $("#overlay").show();
+$(document).on("click",".edit", function(e){
 });
 
 $(document).on("click",".delete", function(e){
