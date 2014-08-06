@@ -43,9 +43,9 @@ $('#save').click(function() {
         cache: false,
         dataType: "json",
         success: function(id) {
-            for(i=0; i<count; i++){
+            for(i=1; i<=count; i++){
                 $("#initiative tr:last").after("<tr id="+parseInt(id+i)+" style='background-color:green'>"+
-                "<td>"+name+"</td>"+
+                "<td>"+name+" " + i + "</td>"+
                 "<td><img style='max-height: 40px; src='"+image+"'></td>"+
                 "<td style='width:150px'>"+
                 "    <div class='input-group'>"+
