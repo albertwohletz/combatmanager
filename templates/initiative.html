@@ -35,6 +35,9 @@
                             <button type="button" class="btn btn-default delete" title="Delete This Person">
                                 <span class="glyphicon glyphicon-remove-circle"></span>
                             </button>
+                            <button type="button" class="btn btn-default edit" title="Edit This Person">
+                                <span class="glyphicon glyphicon-cog"></span>
+                            </button>
                         </td>
                     </tr>
                 {% endfor %}
@@ -55,10 +58,10 @@
             <input type="text" id='player-image' class="form-control" placeholder="Image">
             <input type="text" id='player-hp' class="form-control" placeholder="HP">
             <input type="text" id='player-ac' class="form-control" placeholder="AC">
+            <input type="text" id='player-number' class="form-control" value="1" title="count">
             <span class="input-group-btn glyphicon" title="Save">
                 <button class="btn btn-default" type="button" id="save"><span class="glyphicon glyphicon-floppy-disk"></span></button>
             </span>
-            <input type="text" id='player-number' class="form-control" value="1">
         </div>
     </div>
 </body>

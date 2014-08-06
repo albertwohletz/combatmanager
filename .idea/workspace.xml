@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35535f8-b2d2-471e-b0a2-d634a8defdd6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/initiative.html" afterPath="$PROJECT_DIR$/templates/initiative.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Display/static/js/initiative.js" afterPath="$PROJECT_DIR$/Display/static/js/initiative.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API/views.py" afterPath="$PROJECT_DIR$/API/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Display/static/css/main_style.css" afterPath="$PROJECT_DIR$/Display/static/css/main_style.css" />
     </list>
     <ignored path="combatmanager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +30,7 @@
       <file leaf-file-name="main_style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Display/static/css/main_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+            <state line="4" column="4" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initiative.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="initiative.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Display/static/js/initiative.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="35" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.40835267" vertical-offset="529" max-vertical-offset="1290">
+            <state line="14" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="919" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -63,10 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initiative.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="initiative.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/initiative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="636" selection-end="636" vertical-scroll-proportion="9.833333" vertical-offset="431" max-vertical-offset="1065">
+            <state line="60" column="93" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.50507617" vertical-offset="701" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -98,12 +98,12 @@
         <option value="$PROJECT_DIR$/Display/views.py" />
         <option value="$PROJECT_DIR$/combatmanager/settings.py" />
         <option value="$PROJECT_DIR$/API/models.py" />
-        <option value="$PROJECT_DIR$/Display/static/css/main_style.css" />
         <option value="$PROJECT_DIR$/combatmanager/urls.py" />
         <option value="$PROJECT_DIR$/API/urls.py" />
-        <option value="$PROJECT_DIR$/templates/initiative.html" />
         <option value="$PROJECT_DIR$/API/views.py" />
         <option value="$PROJECT_DIR$/Display/static/js/initiative.js" />
+        <option value="$PROJECT_DIR$/Display/static/css/main_style.css" />
+        <option value="$PROJECT_DIR$/templates/initiative.html" />
       </list>
     </option>
   </component>
@@ -248,6 +248,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Display" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combatmanager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combatmanager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="API" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -267,6 +289,7 @@
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -722,23 +745,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Display/static/css/main_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/initiative.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="636" selection-end="636" vertical-scroll-proportion="9.833333" vertical-offset="431" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/API/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="43" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Display/static/css/main_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Display/static/js/initiative.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="919" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
@@ -757,9 +780,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Display/static/js/initiative.js">
+    <entry file="file://$PROJECT_DIR$/templates/initiative.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="35" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.40835267" vertical-offset="529" max-vertical-offset="1290">
+        <state line="60" column="93" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.50507617" vertical-offset="701" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>

@@ -11,6 +11,9 @@ $(function() {
 $('#add-new').click(function() {
     $("#overlay").show();
 });
+$('.close-button').click(function() {
+    $("#overlay").hide();
+});
 
 $(document).on("change",".hp", function(e){
     current = $(this).val();
@@ -62,11 +65,12 @@ $('#save').click(function() {
             }
         }
     });
-
-
     $("#overlay").hide();
 });
 
+$('#edit').click(function() {
+    $("#overlay").show();
+});
 
 $(document).on("click",".delete", function(e){
     var row = $(this).parent().parent();
