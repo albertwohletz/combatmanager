@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35535f8-b2d2-471e-b0a2-d634a8defdd6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/initiative.html" afterPath="$PROJECT_DIR$/templates/initiative.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Display/static/js/initiative.js" afterPath="$PROJECT_DIR$/Display/static/js/initiative.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API/urls.py" afterPath="$PROJECT_DIR$/API/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API/views.py" afterPath="$PROJECT_DIR$/API/views.py" />
     </list>
     <ignored path="combatmanager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +29,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="initiative.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="initiative.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Display/static/js/initiative.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="112" selection-start="353" selection-end="353" vertical-scroll-proportion="0.5483029" vertical-offset="0" max-vertical-offset="1500">
+            <state line="76" column="25" selection-start="2715" selection-end="2715" vertical-scroll-proportion="0.0" vertical-offset="982" max-vertical-offset="1695">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="8" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.6475196" vertical-offset="487" max-vertical-offset="870">
+              <folding>
+                <element signature="e#30#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,11 +52,20 @@
       <file leaf-file-name="initiative.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/initiative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="47" selection-start="2627" selection-end="2627" vertical-scroll-proportion="-3.7916667" vertical-offset="719" max-vertical-offset="1380">
+            <state line="76" column="46" selection-start="4075" selection-end="4075" vertical-scroll-proportion="-8.791667" vertical-offset="929" max-vertical-offset="1380">
               <folding>
                 <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="39" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,9 +90,9 @@
         <option value="$PROJECT_DIR$/combatmanager/urls.py" />
         <option value="$PROJECT_DIR$/Display/static/css/main_style.css" />
         <option value="$PROJECT_DIR$/API/urls.py" />
-        <option value="$PROJECT_DIR$/API/views.py" />
         <option value="$PROJECT_DIR$/templates/initiative.html" />
         <option value="$PROJECT_DIR$/Display/static/js/initiative.js" />
+        <option value="$PROJECT_DIR$/API/views.py" />
       </list>
     </option>
   </component>
@@ -587,7 +610,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -602,7 +625,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="25" selection-start="429" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="450">
           <folding>
-            <element signature="e#30#65#0" expanded="true" />
+            <element signature="e#30#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -635,7 +658,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="25" selection-start="429" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="450">
           <folding>
-            <element signature="e#30#65#0" expanded="true" />
+            <element signature="e#30#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -668,7 +691,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="25" selection-start="429" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="450">
           <folding>
-            <element signature="e#30#65#0" expanded="true" />
+            <element signature="e#30#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -746,22 +769,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="42" selection-start="233" selection-end="241" vertical-scroll-proportion="-3.4615386" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="54" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="540">
-          <folding>
-            <element signature="e#30#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Display/static/css/main_style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="4" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
@@ -783,9 +790,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/API/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="39" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/initiative.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="47" selection-start="2627" selection-end="2627" vertical-scroll-proportion="-3.7916667" vertical-offset="719" max-vertical-offset="1380">
+        <state line="76" column="46" selection-start="4075" selection-end="4075" vertical-scroll-proportion="-8.791667" vertical-offset="929" max-vertical-offset="1380">
           <folding>
             <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -795,8 +809,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Display/static/js/initiative.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="112" selection-start="353" selection-end="353" vertical-scroll-proportion="0.5483029" vertical-offset="0" max-vertical-offset="1500">
+        <state line="76" column="25" selection-start="2715" selection-end="2715" vertical-scroll-proportion="0.0" vertical-offset="982" max-vertical-offset="1695">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.0" vertical-offset="1347" max-vertical-offset="4215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="8" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.6475196" vertical-offset="487" max-vertical-offset="870">
+          <folding>
+            <element signature="e#30#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

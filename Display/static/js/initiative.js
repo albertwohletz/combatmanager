@@ -46,7 +46,6 @@ $('#save').click(function() {
     var request =  $.ajax({
         url: '/api/add_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac + "&count="+count,
         cache: false,
-        dataType: "json",
         success: function(id) {
             for(i=1; i<=count; i++){
                 $("#initiative tr:last").after("<tr id="+parseInt(id+i)+" style='background-color:green'>"+
@@ -70,15 +69,29 @@ $('#save').click(function() {
     $("#overlay").hide();
 });
 
+var last_clicked_id = -1; // global var used for editing.
 $(document).on("click",".edit", function(e){
     $("#edit-overlay").show();
     var row = $(this).parent().parent();
     id = row.attr('id')
+    last_clicked_id = id;
     $.getJSON("/api/get_char?id=" + id, function(data){
         $("#edit-player-name").val(data.name)
         $("#edit-player-image").val(data.img)
         $("#edit-player-hp").val(data.hp)
         $("#edit-player-ac").val(data.ac)
+    });
+});
+
+// Saves current stats for last_clicked_id
+$('#edit-confirm').click(function() {
+    var name = $("#edit-player-name").val();
+    var image = $("#edit-player-image").val();
+    var hp = $("#edit-player-hp").val();
+    var ac = $("#edit-player-ac").val();
+    var request =  $.ajax({
+        url: '/api/edit_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac + "&id=" + last_clicked_id,
+        cache: false
     });
 });
 
