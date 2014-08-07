@@ -52,7 +52,9 @@
     </div>
 
     <div id="overlay" class="overlay">
-        <img class="close-button" src= http://admin.loadiq.com:8000/static/img/xicon.gif>
+        <span class="input-group-btn glyphicon close-button" title="Save" >
+                <button class="btn btn-default" type="button" id="save-edit"><span class="glyphicon glyphicon-remove"></span></button>
+        </span>
         <div class="input-group">
             <input type="text" id='player-name' class="form-control" placeholder="Name">
             <input type="text" id='player-image' class="form-control" placeholder="Image">
@@ -64,6 +66,22 @@
             </span>
         </div>
     </div>
+
+    <div id="edit-overlay" class="overlay">
+        <span class="input-group-btn glyphicon" title="Save">
+                <button class="btn btn-default" type="button" id="save-edit"><span class="glyphicon glyphicon-remove"></span></button>
+        </span>
+        <div class="input-group">
+            <input type="text" id='edit-player-name' class="form-control" placeholder="Name">
+            <input type="text" id='edit-player-image' class="form-control" placeholder="Image">
+            <input type="text" id='edit-player-hp' class="form-control" placeholder="HP">
+            <input type="text" id='edit-player-ac' class="form-control" placeholder="AC">
+            <span class="input-group-btn glyphicon" title="Save">
+                <button class="btn btn-default" type="button" id="save-edit"><span class="glyphicon glyphicon-floppy-disk"></span></button>
+            </span>
+        </div>
+    </div>
+
 </body>
     <script src={% static 'js/initiative.js' %}></script>
 </html>

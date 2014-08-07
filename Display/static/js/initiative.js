@@ -11,8 +11,10 @@ $(function() {
 $('#add-new').click(function() {
     $("#overlay").show();
 });
+
+// Closes Parent of who was clicked.  This way you can have this in a container and it will act as an close 'x'.
 $('.close-button').click(function() {
-    $("#overlay").hide();
+    $(this).parent().hide();
 });
 
 $(document).on("change",".hp", function(e){
@@ -69,6 +71,15 @@ $('#save').click(function() {
 });
 
 $(document).on("click",".edit", function(e){
+    $("#edit-overlay").show();
+    var row = $(this).parent().parent();
+    id = row.attr('id')
+    $.getJSON("/api/get_char?id=" + id, function(data){
+        $("#edit-player-name").val(data.name)
+        $("#edit-player-image").val(data.img)
+        $("#edit-player-hp").val(data.hp)
+        $("#edit-player-ac").val(data.ac)
+    });
 });
 
 $(document).on("click",".delete", function(e){
