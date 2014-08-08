@@ -93,6 +93,15 @@ $('#edit-confirm').click(function() {
         url: '/api/edit_char?name=' + name + "&image=" + image + "&hp=" + hp + "&ac=" + ac + "&id=" + last_clicked_id,
         cache: false
     });
+
+    var tds = $("#"+last_clicked_id).children();
+    tds[0].innerText = name;
+    //alert(tds[2].children().length);
+    //tds[1].children()[0].attr("src", image);
+    //hps = tds[2].child().children();
+    //hps[0].attr('data-hp',hp);
+    //hps[1].innerText = '/' + hp;
+    tds[3].innerText = ac;
 });
 
 $(document).on("click",".delete", function(e){
